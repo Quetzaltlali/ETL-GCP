@@ -1,6 +1,6 @@
 --------------------------------------------------------------------------------
 /**
-Autor: Quetzaltlalic
+Autor: Quetzaltlali
 Descripción: Creacion tablas
 **/
 
